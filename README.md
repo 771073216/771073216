@@ -1,7 +1,7 @@
 ## Hi there 👋
 <picture>
-  <source src="https://github-stats-771073216.vercel.app/api/top-langs/?username=771073216&layout=compact&exclude_repo=github-stats">
-  <img src="https://github-stats-771073216.vercel.app/api/top-langs/?username=771073216&layout=compact&exclude_repo=github-stats">
+  <source src="https://github-stats-771073216.vercel.app/api/top-langs/?username=771073216&layout=compact&exclude_repo=github-stats,anywhere-mod,InstallerX-mod">
+  <img src="https://github-stats-771073216.vercel.app/api/top-langs/?username=771073216&layout=compact&exclude_repo=github-stats,anywhere-mod,InstallerX-mod">
 </picture>
 
 <!--
