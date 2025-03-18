@@ -1,8 +1,9 @@
 ## Hi there 👋
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-771073216.vercel.app/api/top-langs/?username=771073216&layout=compact&exclude_repo=github-stats">
+  <source src="https://github-stats-771073216.vercel.app/api/top-langs/?username=771073216&layout=compact&exclude_repo=github-stats">
   <img src="https://github-stats-771073216.vercel.app/api/top-langs/?username=771073216&layout=compact&exclude_repo=github-stats">
 </picture>
+
 <!--
 **771073216/771073216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
